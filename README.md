@@ -1,4 +1,4 @@
-This is BBS app created by choran with Ruby on Rails and Hotwire.
+This is BBS app created by choran with Ruby on Rails.
 
 reference:
     5年間 Laravel を使って辿り着いた，全然頑張らない「なんちゃってクリーンアーキテクチャ」という落としどころ
